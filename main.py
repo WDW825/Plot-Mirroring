@@ -67,9 +67,9 @@ class Mirroring:
         plt.grid(True)
         plt.show()
 
+if __name__ == "__main__":
+    f_x = x
+    g_x = -x**2
+    Solution = Mirroring(f_x, g_x, -10, 10, 0.2)
+    Solution.run()
 
-f_x = x-2     #отражаемая функция
-g_x = x**2+2*x+1  #функция относительно которой отражают
-
-Solution = Mirroring(f_x, g_x, -10, 10, 0.2)
-Solution.run()
