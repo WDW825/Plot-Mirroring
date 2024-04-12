@@ -1,4 +1,4 @@
-![image](https://github.com/WDW825/Plot-Mirroring/assets/87891702/709e54b2-2ef9-4227-9d89-e8e02bcaf689)# Plot-Mirroring
+Plot-Mirroring
 Mirroring a plot with respect to another plot
 
 Этот небольшой код используется для отражения одного графика относительно другого. Конструктор класса Mirroring принимает следующие параметры: f_x, g_x, min_v, max_v, step.
